@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Portfolio
- * Description: Customs blocks and content tools for Francisco Gamba's portfolio website.
- * Version: 1.0
+ * Plugin Name: Francisco Portfolio Blocks
+ * Description: Custom blocks and content tools for Francisco Gamba's portfolio website.
+ * Version: 1.0.0
  * Author: Francisco Gamba
  * Requires PHP: 7.4
- * Text Domain: portfolio
+ * Text Domain: francisco-portfolio-blocks
  */
 
 defined( 'ABSPATH' ) || exit;
