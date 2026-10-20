@@ -5,6 +5,7 @@
  * Version: 1.0.0
  * Author: Francisco Gamba
  * Requires PHP: 7.4
+ * Update URI: https://fgamba.dev/plugins/francisco-portfolio-blocks/
  * Text Domain: francisco-portfolio-blocks
  */
 
