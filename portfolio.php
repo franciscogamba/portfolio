@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Portfolio
  * Description: Custom blocks and content tools for Francisco Gamba's portfolio website.
- * Version: 0.1.0
+ * Version: 1.0
  * Author: Francisco Gamba
  * Requires PHP: 7.4
  * Text Domain: portfolio
